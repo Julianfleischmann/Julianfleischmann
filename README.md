@@ -2,7 +2,9 @@
 
 My name is Julian Fleischmann.
 I work at [mr. pixel](https://www.mr-pixel.de "mr. pixel Homepage") in Neumarkt i.d.OPf. – an eCommerce Agency specialized in Shopware.
+
 And I’m also an online media student at the DHBW Mosbach.
+
 If you have any futher questions, so call me!
 
 <!--
